@@ -1,0 +1,2 @@
+# Data-Viz-with-Processing
+When jewellery stores close they remove the jewels that have been during the opening hours on window displays. The main reason behind this removal is the fear of getting robbed when the jewellery is not under the employee’s surveillance.This visual represent the opinion of 32 people(100% of the results) concerning the way they react towards the empty window displays. The point to be made after the results is that some jewellery stores might be loosing clients because of this fear of theft while removing the jewels for customers to see and admire.
